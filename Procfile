@@ -1,0 +1,1 @@
+web: gunicorn railway_deployment.wsgi --log-file -
